@@ -1,4 +1,4 @@
-Preface: This Add-on only works with the Bizhawk Emulator, as it relies on the ability to draw images in the emulator window. A big thank you to KiakoLee, StreamingFalcon, and Ice_ArchAngel for the original brows which inspired this project, and for helping with its Gen 4 Tracker trial run
+Preface: This Add-on only works with the Bizhawk Emulator, as it relies on the ability to draw images in the emulator window, and specifically with the "Stadium" iconset. A big thank you to KiakoLee, StreamingFalcon, and Ice_ArchAngel for the original brows which inspired this project.
 
 -------------------
 INSTRUCTIONS: Gen 3
