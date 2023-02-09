@@ -3,10 +3,9 @@ Preface: This Add-on only works with the Bizhawk Emulator, as it relies on the a
 -------------------
 INSTRUCTIONS: Gen 3
 -------------------
-1) Extract the contents of the unzipped Gen3Brows.zip file into the Tracker's Custom folder (i.e. "Ironmon-Tracker\ironmon-tracker\Custom")
-2) Add "Brows.lua" to settings.filenames in CustomCodeSettings.lua
-3) Again in CustomCodeSettings.lua, set settings.enabled to "true" (without the quotes)
-
+1) Extract the contents of the unzipped Gen3Brows.zip file into the Tracker's extensions folder (i.e. "Ironmon-Tracker\extensions")
+2) When the Tracker is running, go to Settings -> Setup -> Extensions -> make sure "Allow custom code to run" is enabled, and click on "Pokemon Stadium Brows" to enable the brows Add-on. If the brows option is not present you may need to click Refresh first.
+3) Switch to the Stadium icon set by going to Settings -> Setup -> Using the arrows next to the example image
 -------------------
 INSTRUCTIONS: Gen 4
 -------------------
