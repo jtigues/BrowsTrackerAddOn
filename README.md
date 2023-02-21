@@ -10,7 +10,8 @@ INSTRUCTIONS: Gen 3
 -------------------
 INSTRUCTIONS: Gen 4
 -------------------
-Temporarily unavailable.
+Update: Now built into the tracker itself! (v5.2.0)
+You can enable them by going to Settings -> Tracker Appearance -> Pokemon Icon Sets -> Checking the "Enable Brows" checkbox while the Stadium icon set is selected
 
 Enjoy!
 - ninjafriend
